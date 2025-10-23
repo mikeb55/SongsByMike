@@ -19,7 +19,7 @@ SongsByMike/
 └── assets/
     ├── audio/
     ├── midi/
-    └── sheet-music/
+    └── sheet-music/ (MusicXML files for Sibelius import)
 ```
 
 ## Getting Started
@@ -34,6 +34,7 @@ SongsByMike/
 - Songs: `YYYY-MM-DD_SongTitle_Key.md`
 - Audio: `YYYY-MM-DD_SongTitle_Key.wav`
 - MIDI: `YYYY-MM-DD_SongTitle_Key.mid`
+- MusicXML: `YYYY-MM-DD_SongTitle_Key.musicxml` (for Sibelius import)
 
 ## Song Documentation
 
